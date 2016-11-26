@@ -1,7 +1,6 @@
-# flow_control
+# flow_control2.rb
 
-a = false
-if a
+if x = 5
   puts "how can this be true?"
 else
   puts "it is not true"

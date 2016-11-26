@@ -1,6 +1,6 @@
 # conditional.rb
 
-puts "Put in a number"
+puts "Put in a number: "
 a = gets.chomp.to_i
 
 if a == 3
